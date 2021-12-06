@@ -5,4 +5,5 @@ My main languages which I'm programming are **HTML, CSS, JavaScript and PAWN.** 
 
 ---
 
-
+Something more about me:
+I'm Robert from Poland. I'm seventeen years old. In next year i turn to eighteen. Apart from coding I have dirtbike hobby. I like fast riding and proverbial fumbling on the engine when it needs fix.
