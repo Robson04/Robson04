@@ -11,9 +11,7 @@ I'm Robert from Poland. I'm seventeen years old. In next year i turn to eighteen
 
 ---
 
-You can find me in discord. That's the communitator where you'll always find me.
-- **Robson04#8010**
-
----
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" style="width: 200px; float: left;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="HTML5" style="width: 200px; float: left;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="HTML5" style="width: 200px; float: left;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" alt="HTML5" style="width: 200px; float: left;" />
