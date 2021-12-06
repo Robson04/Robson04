@@ -14,6 +14,6 @@ I'm Robert from Poland. I'm seventeen years old. In next year i turn to eighteen
 <div style="display: inline-block;">
   <img src="html.png" alt="HTML5" width="200" height="200" />
   <img src="css.png" alt="CSS" width="150" height="200" />
-  <img src="js.png" alt="JavaScript" width="150" height="150" />
+  <img src="js.png" alt="JavaScript" width="200" height="190" />
   <img src="pawn.png" alt="PAWN" width="200" height="200" />
 </div>
