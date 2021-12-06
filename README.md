@@ -13,7 +13,7 @@ I'm Robert from Poland. I'm seventeen years old. In next year i turn to eighteen
 
 <div style="display: inline-block;">
   <img src="html.png" alt="HTML5" width="200" height="200" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="200" height="200" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="200" height="200" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" alt="PAWN" width="200" height="200" />
+  <img src="css.png" alt="CSS" width="200" height="200" />
+  <img src="js.png" alt="JavaScript" width="200" height="200" />
+  <img src="pawn.png" alt="PAWN" width="200" height="200" />
 </div>
