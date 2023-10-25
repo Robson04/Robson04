@@ -7,7 +7,7 @@ My main languages which I'm programming are **HTML, CSS, JavaScript and PAWN.** 
 
 > Something more about me:
 
-I'm Robert from Poland. I'm eighteen years old. Apart from coding I have dirtbike hobby. I like fast riding and proverbial fumbling on the engine when it needs fix. Sport is also important to me. I build strength by using the gym. Recently, I adore involved in bodybuilding.
+I'm Robert from Poland. I'm nineteen years old. Apart from coding I have dirtbike hobby. I like fast riding and proverbial fumbling on the engine when it needs fix. Sport is also important to me. I build strength by using the gym. Recently, I adore involved in bodybuilding.
 
 <div style="display: inline-block;" align="center">
   <img src="html.png" alt="HTML5" width="200" height="200" />
